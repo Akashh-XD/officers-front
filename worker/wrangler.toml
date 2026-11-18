@@ -1,0 +1,6 @@
+name = "officers-front-api"
+main = "src/index.js"
+compatibility_date = "2026-11-01"
+
+[vars]
+TELEGRAM_CHANNEL_USERNAME = "theUnKnown_World"
